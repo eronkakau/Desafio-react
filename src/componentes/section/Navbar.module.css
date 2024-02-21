@@ -1,0 +1,19 @@
+.nav{
+    display: flex;
+    color: aliceblue;
+    margin-top: 40px;
+}
+.nav ul{
+    display: flex;
+    margin: 10px;
+    list-style: none;
+    margin-left: 350px;
+}
+.nav li{
+    margin: 10px;
+}
+
+.nav a{
+    color: aliceblue !important;
+    font-size: 20px;
+}

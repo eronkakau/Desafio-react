@@ -1,0 +1,121 @@
+.sct{
+    color: aliceblue;
+    margin: 5px;
+    display: flex;
+}
+.h{
+    margin-left: 120px;
+    color: aliceblue;
+    margin-top: 50px;
+}
+.pro{
+    
+    margin: 25px;
+    border-radius: 45px 2px;
+    box-shadow: 1px 1px 6px white ;
+    background: rgb(2, 7, 19);
+    width: 450px;
+    height: 580px;
+    margin-top: 80px;
+    margin-left: 160px;
+    
+}
+.pro img{
+    margin: 20px;
+    width: 410px;
+}
+.pro p{
+    margin: 25px;
+}
+
+.pro button{
+
+    margin: 25px;
+
+}
+
+.csa{
+    
+    margin: 25px;
+    border-radius: 45px 2px;
+    filter: drop-shadow(2 , 5, 6 8);
+    background: rgb(2, 7, 19);
+    width: 450px;
+    height: 580px;
+    margin-top: 80px;
+    box-shadow: 1px 1px 6px white ;
+   
+    
+}
+.csa img{
+    margin: 20px;
+    width: 410px;
+    height: 222px;
+}
+.csa p{
+    margin: 25px;
+}
+
+.csa button{
+
+    margin: 25px;
+    margin-top: 45px;
+
+}
+
+.htm{
+    
+    margin: 25px;
+    margin-left: 160px;
+    border-radius: 45px 2px;
+    box-shadow: 1px 1px 6px white ;
+    background: rgb(2, 7, 19);
+    width: 450px;
+    height: 580px;
+    margin-top: 150px;
+    
+}
+.htm img{
+    margin: 20px;
+    width: 410px;
+    height: 222px;
+}
+.htm p{
+    margin: 25px;
+}
+
+.htm button{
+
+    margin: 25px;
+    margin-top: 30px;
+
+}
+
+.rca{
+    
+    margin: 25px;
+    margin-left: 25px;
+    border-radius: 45px 2px;
+    box-shadow: 1px 1px 6px white ;
+    background: rgb(2, 7, 19);
+    width: 450px;
+    height: 580px;
+    margin-top: 150px;
+    
+}
+.rca img{
+    margin: 20px;
+    width: 410px;
+    height: 222px;
+}
+.rca p{
+    margin: 25px;
+    margin-top: 1px;
+}
+
+.rca button{
+
+    margin: 25px;
+    margin-top: 1px;
+
+}

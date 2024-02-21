@@ -1,0 +1,20 @@
+.sb{
+
+    margin-left: 130px;
+    color: aliceblue;
+
+}
+.sb img{
+
+    width: 840px;
+    margin-left: 150px;
+    
+    
+}
+
+.sb ul{
+
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+}
