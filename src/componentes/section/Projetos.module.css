@@ -24,6 +24,12 @@
     margin: 20px;
     width: 410px;
 }
+.pro img:hover{
+
+    transition-duration: 0.5s;
+    transform: translateY(-7px);
+    background-color: rgb(50, 99, 141);
+}
 .pro p{
     margin: 25px;
 }
