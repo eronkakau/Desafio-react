@@ -1,5 +1,5 @@
 import styles from './Navbar.module.css'
-import { FaGithub, FaLinkedin } from "react-icons/fa";
+import { FaGithub, FaLinkedin, FaInstagram } from "react-icons/fa";
 import Nav from 'react-bootstrap/Nav'
 
 function Navbar(){
@@ -15,6 +15,7 @@ function Navbar(){
           <ul>
             <li><a href='https://github.com/eronkakau'><FaGithub size ={30}/></a></li>
             <li><a href='https://www.linkedin.com/in/eron-pinheiro-567598119/'><FaLinkedin size ={30}/></a></li>
+            <li><a href='https://github.com/eronkakau'><FaInstagram size ={30}/></a></li>
            
           </ul>
 
