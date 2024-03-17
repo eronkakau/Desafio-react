@@ -6,7 +6,7 @@ import { useEffect, useState } from 'react'
 function Habilidades(){
 
     const [text, setText] = useState('');
-    const toRotate = ['Chrislen Eron ','Desenvolvedor front-end', 'Analista de Sistemas'];
+    const toRotate = ['Chrislen Eron Cacau  ','Desenvolvedor front-end', 'Analista de Tecnologia'];
     const [loop, setLoop] = useState(0);
     const [isDeleting, setInDeleting] = useState(false);
     const period = 180;
